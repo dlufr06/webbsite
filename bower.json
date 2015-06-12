@@ -1,0 +1,22 @@
+{
+  "name": "webbsite",
+  "version": "0.0.0",
+  "authors": [
+    "Daniel Lundberg <danlun@utb.vaxjo.se>"
+  ],
+  "description": "test-sida",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": "1.9.1",
+    "mustache.js": "~2.1.1"
+  }
+}
